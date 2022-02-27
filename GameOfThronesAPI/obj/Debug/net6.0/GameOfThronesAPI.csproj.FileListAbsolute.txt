@@ -1,0 +1,17 @@
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\GameOfThronesAPI.exe
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\GameOfThronesAPI.deps.json
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\GameOfThronesAPI.runtimeconfig.json
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\GameOfThronesAPI.dll
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\ref\GameOfThronesAPI.dll
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\GameOfThronesAPI.pdb
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.csproj.AssemblyReference.cache
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.AssemblyInfoInputs.cache
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.AssemblyInfo.cs
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.csproj.CopyComplete
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.dll
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\ref\GameOfThronesAPI.dll
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.pdb
+C:\Users\wilfr\source\repos\GOTApi\GameOfThronesAPI\obj\Debug\net6.0\GameOfThronesAPI.genruntimeconfig.cache

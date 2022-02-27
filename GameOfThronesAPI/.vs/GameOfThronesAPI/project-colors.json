@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c6f37659-a165-4ab4-8321-e7123e2af0da": {
+      "ProjectGuid": "c6f37659-a165-4ab4-8321-e7123e2af0da",
+      "DisplayName": "GameOfThronesAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

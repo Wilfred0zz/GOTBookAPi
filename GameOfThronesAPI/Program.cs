@@ -18,14 +18,14 @@ namespace GameOfThrons
 
         private static async Task ProcessRepositories()
         {
-            Console.WriteLine("The following we display information of a book from the Game of Thrones Series choosen at random");
+            Console.WriteLine("The following will display information of a book from the Game of Thrones Series choosen at random !");
 
             Random rand = new Random();
-            var bookId = rand.Next(0, 10);
+            var bookId = rand.Next(0, 10); //generated book number so that it can later fetch info on that specific book in the series
 
             try
             {
-                var result = await client.GetAsync("https://www.anapioficeandfire.com/api/books/" + bookId);
+                var result = await client.GetAsync("https://www.anapioficeandfire.com/api/books/" + bookId);//makes call to api with book information generated
                 var resultRead = await result.Content.ReadAsStringAsync();
 
                 var InformationPulled = JsonConvert.DeserializeObject<BooksInformation>(resultRead);
@@ -49,7 +49,7 @@ namespace GameOfThrons
         }
     }
 
-    class BooksInformation {
+    class BooksInformation {//sets the property of json files strings to variables that can later be printed
         
         [JsonProperty("name")]
         public string Name { get; set; }
@@ -61,11 +61,11 @@ namespace GameOfThrons
         public string Publisher { get; set; }
 
         [JsonProperty("authors")]
-        [JsonConverter(typeof(SingleStringConverter<string>))]
+        [JsonConverter(typeof(SingleStringConverter<string>))]//converts the array without any properties into a string.
         public List<string> Author { get; set; }
     }
 
-    class SingleStringConverter<T> : JsonConverter
+    class SingleStringConverter<T> : JsonConverter //class that a turns single line array of one object into an accessible string to be read
     {
         public override bool CanConvert(Type objectType)
         {
